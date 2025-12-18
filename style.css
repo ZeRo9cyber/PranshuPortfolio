@@ -91,7 +91,6 @@ h1 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
     text-shadow: var(--glow-effect);
 }
 
@@ -1335,12 +1334,6 @@ footer {
     display: none;
 }
 
-/* Light theme styles can be added with a .light-theme class */
-.light-theme {
-    /* This will be implemented in JavaScript */
-}
-
-/* Media Queries*/
 
 /* Large devices (laptops/desktops, up to 1200px) */
 @media only screen and (max-width: 1200px) {
